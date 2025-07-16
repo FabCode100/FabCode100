@@ -72,7 +72,7 @@ Atualmente desenvolvendo soluções **SaaS** com foco em organização, produtiv
 
 Ferramentas aplicadas em CTFs, ambientes TryHackMe e testes de segurança ofensiva com foco em:
 - 🔍 Enumeração de rede e serviços
-- 🩻 Análise de tráfego e sniffing
+- 🖥️ Análise de tráfego e sniffing
 - 🧪 Exploração de vulnerabilidades conhecidas
 - 🔐 Ataques contra Active Directory (Kerberoasting, Pass-the-Hash, etc)
 
