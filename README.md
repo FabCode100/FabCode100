@@ -41,13 +41,24 @@
 
  <h3 style="margin: 20px 0;border: none !important">Frameworks & Libraries</h3><p />
 
- <div style="display: inline_block">
-   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black" alt="React"/></a>
-   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind CSS%20-%2306B6D4.svg?&style=for-the-badge&logo=Tailwind CSS&logoColor=black" alt="Tailwind CSS"/></a>
-   <a href="https://mui.com/"><img src="https://img.shields.io/badge/Material Design%20-%23757575.svg?&style=for-the-badge&logo=Material Design&logoColor=white" alt="Material Design"/></a>
-   <a href="https://www.apollographql.com/"><img src="https://img.shields.io/badge/Apollo GraphQL%20-%23311C87.svg?&style=for-the-badge&logo=Apollo GraphQL&logoColor=white" alt="Apollo GraphQL"/></a>
-   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=black" alt="Bootstrap"/></a>
- </div></p>
+<div style="display: inline_block">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://mui.com/">
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+  </a>
+  <a href="https://www.apollographql.com/">
+    <img src="https://img.shields.io/badge/Apollo_GraphQL-%23311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo GraphQL"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a>
+</div>
+
 
  <h3 style="margin: 20px 0;border: none !important">Others</h3><p />
 
