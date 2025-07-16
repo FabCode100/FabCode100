@@ -1,4 +1,4 @@
-## Eu sou o Rodrigo Adachi
+## Eu sou o Fabrício Bastos
 
 <div>
  <a href = "https://github.com/FabCode100"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
