@@ -1,81 +1,82 @@
-## Eu sou Fabrício Bastos
+# 👨‍💻 Fabrício Bastos Cardoso
 
-<div>
- <a href = "https://www.linkedin.com/in/fabricio-bastos-cardoso-a1837525b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
- <a href = "mailto:fabriciobc47@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+**Fullstack Developer | Cybersecurity Enthusiast | Engenharia da Computação**
+
+Atualmente desenvolvendo soluções **SaaS** com foco em organização, produtividade e segurança. Apaixonado por arquitetura de sistemas, interfaces limpas e segurança ofensiva. Curioso por natureza, sempre em busca de novos desafios.
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabricio-bastos-cardoso-a1837525b/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fabriciobc47@gmail.com)
+
+---
+
+## 🚀 Tecnologias que uso
+
+### ⚙️ Back-End
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🖥️ Front-End
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### ⚙️ DevOps & Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+## 🛡️ CyberSecurity
+
+> Experiência prática com análise, exploração e testes ofensivos em ambientes simulados.
+
+![Nmap](https://img.shields.io/badge/Nmap-0045AD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-A6192E?style=for-the-badge&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=for-the-badge&logo=neo4j&logoColor=white)
+
+Ferramentas aplicadas em CTFs, ambientes TryHackMe e testes de segurança ofensiva com foco em:
+- 🔍 Enumeração de rede e serviços
+- 🩻 Análise de tráfego e sniffing
+- 🧪 Exploração de vulnerabilidades conhecidas
+- 🔐 Ataques contra Active Directory (Kerberoasting, Pass-the-Hash, etc)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/FabCode100">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabCode100&show_icons=true&theme=dark&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true"/>
+  </a>
 </div>
 
-<br />
+---
 
--   Atualmente trabalhando em desenvolvimento de projetos SAAS.
--   Estou aprendendo mais sobre tecnologias NestJS, React, TypeScript, Java, Django ...
--   Estou estudando Engenharia da Computação e me aperfeiçoando nas tecnologias backend e CyberSecurity.
+## ✨ Frase que me representa
 
-<h2 style="border: none !important">Eu e meus repositórios</h2>
-<div>
- <div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FabCode100&show_icons=true&hide_border=true&theme=dark" /></a><a href="#"><img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true" /></a></div>
-</div>
-
-<div> 
- 
- <h2 style="border: none !important">Skills</h2>
-
- <h3 style="margin: 20px 0;border: none !important">Back-end & Databases</h3><p />
-
-<div style="display: inline_block">
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/ExpressJS-%23434343.svg?&style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
-  </a>
-</div>
-
-
- <h3 style="margin: 20px 0;border: none !important">Front-end</h3><p />
-
- <div style="display: inline_block">
-   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/></a>
-   <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=black" alt="HTML5"/></a>
- </div></p>
-
- <h3 style="margin: 20px 0;border: none !important">Frameworks & Libraries</h3><p />
-
-<div style="display: inline_block">
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://mui.com/">
-    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </a>
-</div>
-
-
- <h3 style="margin: 20px 0;border: none !important">Others</h3><p />
-
- <div style="display: inline_block">
-   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
-   <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket%20-%230052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" alt="Bitbucket"/></a>
- </div>
-
-</div>
-
-<div style="margin: 40px 0; text-align: right;" align="right">
- <em style="font-size: 30px">"."</em>
- <p style="font-size: 18px; font-weight: bold;">.</p>
-</div>
+> “Transformar ideias em soluções impactantes, com arquitetura limpa, foco no usuário e propósito eterno.”
