@@ -6,6 +6,17 @@ Atualmente desenvolvendo soluções **SaaS** com foco em organização, produtiv
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/FabCode100">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabCode100&show_icons=true&theme=dark&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true"/>
+  </a>
+</div>
+
+---
+
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabricio-bastos-cardoso-a1837525b/)
@@ -63,17 +74,6 @@ Ferramentas aplicadas em CTFs, ambientes TryHackMe e testes de segurança ofensi
 - 🩻 Análise de tráfego e sniffing
 - 🧪 Exploração de vulnerabilidades conhecidas
 - 🔐 Ataques contra Active Directory (Kerberoasting, Pass-the-Hash, etc)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/FabCode100">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabCode100&show_icons=true&theme=dark&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
 
 ---
 
