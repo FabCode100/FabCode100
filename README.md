@@ -22,13 +22,24 @@
 
  <h3 style="margin: 20px 0;border: none !important">Back-end & Databases</h3><p />
 
- <div style="display: inline_block">
-   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/NodeJS%20-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black" alt="NodeJS"/></a>
-   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/ExpressJS%20-%23000000.svg?&style=for-the-badge&logo=Express&logoColor=white" alt="Express"/></a>
-   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=black" alt="MongoDB"/></a>
-   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL%20-%23339933.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=black" alt="PostgreSQL"/></a>
-   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL"/></a>
- </div></p>
+<div style="display: inline_block">
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/ExpressJS-%23434343.svg?&style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-%23F29111.svg?&style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
+  </a>
+</div>
+
 
  <h3 style="margin: 20px 0;border: none !important">Front-end</h3><p />
 
