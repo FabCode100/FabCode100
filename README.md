@@ -73,7 +73,6 @@
 
  <div style="display: inline_block">
    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
-   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
    <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket%20-%230052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" alt="Bitbucket"/></a>
    <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL%20-%23E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL"/></a>
  </div>
