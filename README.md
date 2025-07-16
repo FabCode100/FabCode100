@@ -60,9 +60,6 @@
   <a href="https://mui.com/">
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
   </a>
-  <a href="https://www.apollographql.com/">
-    <img src="https://img.shields.io/badge/Apollo_GraphQL-%23311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white" alt="Apollo GraphQL"/>
-  </a>
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </a>
@@ -74,7 +71,6 @@
  <div style="display: inline_block">
    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
    <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket%20-%230052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" alt="Bitbucket"/></a>
-   <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL%20-%23E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL"/></a>
  </div>
 
 </div>
