@@ -13,9 +13,7 @@
 
 <h2 style="border: none !important">Eu e meus repositórios</h2>
 <div>
- <div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FabCode100&show_icons=true&hide_border=true&theme=dark" /></a></div>
-
- <div><a href="#"><img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true" /></a></div>
+ <div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FabCode100&show_icons=true&hide_border=true&theme=dark" /></a><a href="#"><img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true" /></a></div>
 </div>
 
 <div> 
