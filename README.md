@@ -4,8 +4,6 @@
 
 Atualmente desenvolvendo soluções **SaaS** com foco em organização, produtividade e segurança. Apaixonado por arquitetura de sistemas, interfaces limpas e segurança ofensiva. Curioso por natureza, sempre em busca de novos desafios.
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
