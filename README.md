@@ -8,7 +8,7 @@
 <br /><br />
 
 -   Atualmente trabalhando em desenvolvimento de projetos SAAS.
--   Estou aprendendo mais sobre tecnologias NodeJS, ReactJS, Java, Spring Boot ...
+-   Estou aprendendo mais sobre tecnologias NestJS, ReactJS, Java, Django ...
 -   Estou estudando Engenharia da Computação e me aperfeiçoando nas tecnologias backend e CyberSecurity.
 
 <h2 style="border: none !important">Eu e meus repositórios</h2>
