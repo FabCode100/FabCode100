@@ -1,4 +1,4 @@
-## Eu sou o Fabrício Bastos
+## Eu sou Fabrício Bastos
 
 <div>
  <a href = "https://www.linkedin.com/in/fabricio-bastos-cardoso-a1837525b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
