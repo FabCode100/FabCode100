@@ -10,7 +10,6 @@ Atualmente desenvolvendo soluções **SaaS** com foco em organização, produtiv
 
 <div align="center">
   <a href="https://github.com/FabCode100">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabCode100&show_icons=true&theme=dark&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true"/>
   </a>
 </div>
