@@ -6,13 +6,11 @@ Atualmente desenvolvendo soluções **SaaS** com foco em organização, produtiv
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 **MEU PORTFÓLIO (ACESSE AQUI)**
 
-<div align="center">
-  <a href="https://github.com/FabCode100">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabCode100&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
+## 👉 **[https://portfolio-ai-dev-1071504348083.us-west1.run.app/](https://portfolio-ai-dev-1071504348083.us-west1.run.app/)**
+
+> Projetos reais, arquitetura aplicada, sistemas funcionais e visão de produto.
 
 ---
 
