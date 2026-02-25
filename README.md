@@ -8,7 +8,7 @@ Atualmente desenvolvendo soluções **SaaS** com foco em organização, produtiv
 
 # 🌐 **MEU PORTFÓLIO (ACESSE AQUI)**
 
-## 👉 **[Paz! Fiz um site portfólio se souber de alguém contratando: https://portfolio-ai-dev.vercel.app/)**
+## 👉 **https://portfolio-ai-dev.vercel.app/**
 
 > Projetos reais, arquitetura aplicada, sistemas funcionais e visão de produto.
 
